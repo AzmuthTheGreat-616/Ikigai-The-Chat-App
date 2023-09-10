@@ -1,2 +1,9 @@
-# Ikigai-The-Chat-App
-Deigned Developed and Contributed by:-  1. Adnan , 2. Ekhlas , 3. Divyanshu , 4. Kartikey . A Project for Summer Internship Submission.
+# Ikigai
+A mobile responsive sample of Web ChatApp using HTML, CSS, JavaScript with PHP and complete realtime active response.
+
+# developers:
+
+1. Adnan
+2. Ekhlas
+3. Divyanshu
+4. Kartikey
