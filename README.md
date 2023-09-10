@@ -1,7 +1,7 @@
 # Ikigai
 A mobile responsive sample of Web ChatApp using HTML, CSS, JavaScript with PHP and complete realtime active response.
 
-# developers:
+# Developers:
 
 1. Adnan
 2. Ekhlas
